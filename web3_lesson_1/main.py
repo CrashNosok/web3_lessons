@@ -41,3 +41,5 @@ print(Web3.to_wei(ether_balance, 'ether'))
 # получение приватного ключа из сид фразы
 private_key = get_private_from_seed(seed=seed)
 print(private_key)
+
+# new str
