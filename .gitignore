@@ -3,7 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 .DS_Store
-.idea/
+.idea/*
+private_keys.py
 
 # C extensions
 *.so
