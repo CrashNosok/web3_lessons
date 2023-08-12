@@ -5,7 +5,7 @@ __pycache__/
 .DS_Store
 .idea/*
 private_keys.py
-
+web3_lesson_2/private_data.py
 # C extensions
 *.so
 
